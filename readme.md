@@ -12,7 +12,7 @@ Sales Score System
 </p>
 
 
-### About the project
+## 🎯 About the project
 <a id="about-the-project"></a>
 
 Sales Score System is an API responsible for managing a company's products, vendors and sales.
@@ -37,7 +37,7 @@ In the system you can::
 - PostgreSQL
 - Docker
 
-## How to run de project
+## 💻 How to run de project
 <a id="how-to-run"></a>
 
 1. Clone the project and access the repository folder:
@@ -56,7 +56,7 @@ This command will build and run the application and database container. The appl
 
 The application will be running at http://localhost:8080/
 
-## Examples of API requests
+## 📄 Examples of API requests
 <a id="example-requests"></a>
 ### Products
 
@@ -155,5 +155,6 @@ The application will be running at http://localhost:8080/
   "productId":[1, 2, 3, 4, 5]
 }
 ```
+<br><br>
 ---
 Made with ☕ by **Pedro Carara**
